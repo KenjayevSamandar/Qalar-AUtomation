@@ -27,5 +27,3 @@ jobs:
     - name: Testlarni ishga tushirish
       run: |
         pytest -v
-
-
