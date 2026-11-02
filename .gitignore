@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Test natijalari
+hisobot.html
+*.html
+
+# macOS
+.DS_Store
+
+# Virtual muhit
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+
+
